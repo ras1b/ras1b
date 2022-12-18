@@ -19,7 +19,9 @@ You can click the Preview link to take a look at your changes.
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on **Multiple small projects**
+- 🔭 I’m currently working on **StackMC**
+
+- *stackmc.com & stackmc.net*
 
 - 🌱 I’m also learning more about **Java, C++, C#, Python, React.JS**
 
