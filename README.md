@@ -1,15 +1,11 @@
-- 👋 Hi, I’m @ras1b
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 ras1b/ras1b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1> Hello There </h1>
+<h1>- 👋 Hi, I’m @ras1b </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ras1b.ras1b)
