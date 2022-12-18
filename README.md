@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on **StackMC**
 
-- *stackmc.com & stackmc.net*
+- *stackmc.com & stackmc.net  (My Minecraft Server)*
 
 - 🌱 I’m also learning more about **Java, C++, C#, Python, React.JS**
 
