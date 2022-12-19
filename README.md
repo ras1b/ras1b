@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 - *stackmc.com & stackmc.net  (My Minecraft Server)*
 
-- 🌱 I’m also learning more about **Java, C++, C#, Python, React.JS**
+- 🌱 I’m also learning more about **Java, C++, C#, Python, React.JS and PHP
 
 <h2> Skills </h2>
 <a href= https://github.com/ras1b?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
@@ -44,10 +44,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Metrics](https://metrics.lecoq.io/ras1b?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ras1b&theme=merko)](https://www.opg4mers.com)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ras1b&theme=merko)](https://www.stackmc.com)
  
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ras1b&count_private=true&show_icons=true&theme=merko&include_all_commits=true)](https://www.opg4mers.com)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ayhamalali&langs_count=8&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ras1b&count_private=true&show_icons=true&theme=merko&include_all_commits=true)](https://www.stackmc.com)
