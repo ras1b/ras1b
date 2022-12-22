@@ -21,7 +21,8 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on **StackMC**
 
-- *stackmc.com & stackmc.net  (My Minecraft Server)*
+- * www.stackmc.com (Main site) & www.stackmc.net (Documentation site) (My Minecraft Server)*
+- * Co-founder of the EVASE Platform* 
 
 - 🌱 I’m also learning more about **Java, C++, C#, Python, React.JS and PHP**
 
