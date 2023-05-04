@@ -18,12 +18,6 @@ You can click the Preview link to take a look at your changes.
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-
-- 🔭 I’m currently working on **StackMC**
-
-- * www.stackmc.com (Main site) & www.stackmc.net (Documentation site) (My Minecraft Server)*
-- * Co-founder of the EVASE Platform* 
-
 - 🌱 I’m also learning more about **Java, C++, C#, Python, React.JS and PHP**
 
 <h2> Skills </h2>
