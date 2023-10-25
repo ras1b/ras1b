@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m also learning more about **Java, C++, C#, Python, React.JS and PHP**
+- 🌱 I’m also learning more about **Java, PHP, MySQL, HTML, CSS, JavaScript, JQuery**
 
 <h2> Skills </h2>
 <a href= https://github.com/ras1b?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
