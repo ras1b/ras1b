@@ -8,8 +8,6 @@ You can click the Preview link to take a look at your changes.
 <h1>- 👋 Hi, I’m @ras1b </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ras1b.ras1b)
-
 </p>
 <div size='20px'> Hi! My name is <strong>Rasib</strong>.
 </div>
