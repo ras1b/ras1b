@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently working with <h4>Java, PHP, MySQL/NoSQL, CSS, JavaScript, React, Node, Next, JQuery, Bootstrap, Docker, Openshift, Oracle , Azure and AWS</h4>
+- 🌱 I’m currently working with <h4>Java, PHP, MySQL/NoSQL, CSS, JavaScript, React, Node, Next, Docker, Openshift, Oracle , Azure and AWS</h4>
 
 <h2> Skills </h2>
 <a href= https://github.com/ras1b?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
